@@ -1,3 +1,3 @@
 # Juma
 This is my first repository
-Tis is my first commit
+This is my first commit
